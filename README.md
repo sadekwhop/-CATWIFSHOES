@@ -1,5 +1,5 @@
-# Create a new README file
-echo CATWIFSHOES" >> README.md
+Create a new README file
+echo CATWIFSHOES >> README.md
 
 # Initialize Git
 git init
