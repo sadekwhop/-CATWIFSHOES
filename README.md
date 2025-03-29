@@ -1,5 +1,5 @@
-Create a new README file
-echo CATWIFSHOES >> README.md
+# Create a new README file
+echo "CATWIFSHOES" > README.md
 
 # Initialize Git
 git init
@@ -13,8 +13,8 @@ git commit -m "first commit"
 # Set the main branch
 git branch -M main
 
-# Connect to your GitHub repository
-git remote add origin https://github.com/sadekwhop/-CATWIFSHOES.git
+# Connect to your GitHub repository (Check the correct URL)
+git remote add origin https://github.com/sadekwhop/CATWIFSHOES.git
 
 # Push your files to GitHub
 git push -u origin main
